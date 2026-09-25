@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "חיפוש | עו״ד אברהם זיו כהן",
+      "hasCanvas": false,
+      "bodyTextLen": 1046,
+      "bodyTextHash": "5dba5e8e72e533f6982d458e2dbc3331980124fe74db4bc7c23e337d55988e3b",
+      "bodyTextPrefix": "עו״ד אברהם זיו כהן חיפוש באתר · התחדשות עירונית חיפוש ⌘K חיפוש כ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "חיפוש | עו״ד אברהם זיו כהן",
+      "hasCanvas": false,
+      "bodyTextLen": 959,
+      "bodyTextHash": "2f63db7d61e7c85e1f7892f8f7252f8dd90e7432aa5f624d740686d780f76886",
+      "bodyTextPrefix": "עו״ד אברהם זיו כהן ZIV COHEN LAW חיפוש באתר המשרד מצאו במהירות פ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
