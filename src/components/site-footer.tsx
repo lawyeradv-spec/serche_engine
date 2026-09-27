@@ -35,17 +35,17 @@ export function SiteFooter({ embed = false }: { embed?: boolean }) {
           <p className="mb-3 text-brass">קישורים</p>
           <ul className="space-y-2 text-cream/80">
             <li>
-              <a href="https://www.zivcohenlaw.com/" className="hover:text-brass">
+              <a href="https://www.zivcohenlaw.com/" target="_top" className="hover:text-brass">
                 האתר המלא
               </a>
             </li>
             <li>
-              <a href="https://www.zivcohenlaw.com/אודותינו" className="hover:text-brass">
+              <a href="https://www.zivcohenlaw.com/אודותינו" target="_top" className="hover:text-brass">
                 אודותינו
               </a>
             </li>
             <li>
-              <a href="https://www.zivcohenlaw.com/general-9" className="hover:text-brass">
+              <a href="https://www.zivcohenlaw.com/general-9" target="_top" className="hover:text-brass">
                 מחשבון זכאות
               </a>
             </li>
