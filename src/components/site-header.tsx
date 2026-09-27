@@ -82,16 +82,16 @@ export function SiteHeader({ embed = false }: { embed?: boolean }) {
                   </Link>
                 ),
               )}
-          <a href="https://www.zivcohenlaw.com/" className="hover:text-brass">
+          <a href="https://www.zivcohenlaw.com/" target="_top" className="hover:text-brass">
             האתר המלא
           </a>
-          <a href="https://www.zivcohenlaw.com/items" className="hover:text-brass">
+          <a href="https://www.zivcohenlaw.com/items" target="_top" className="hover:text-brass">
             פרויקטים
           </a>
-          <a href="https://www.zivcohenlaw.com/בלוג" className="hover:text-brass">
+          <a href="https://www.zivcohenlaw.com/בלוג" target="_top" className="hover:text-brass">
             בלוג
           </a>
-          <a href="https://www.zivcohenlaw.com/צור-קשר" className="hover:text-brass">
+          <a href="https://www.zivcohenlaw.com/צור-קשר" target="_top" className="hover:text-brass">
             צור קשר
           </a>
         </nav>
@@ -122,6 +122,7 @@ export function SiteHeader({ embed = false }: { embed?: boolean }) {
               )}
               <a
                 href="https://www.zivcohenlaw.com/"
+                target="_top"
                 className="flex h-11 items-center rounded-md px-2 hover:bg-navy-mid"
               >
                 האתר המלא
